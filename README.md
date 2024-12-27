@@ -1,3 +1,3 @@
-# contagem_pesssoas
+# Contagem de Pessoas
 
-A new Flutter project.
+Criando app de contagem de pessoas
